@@ -34,7 +34,7 @@ Data
 
  - High checkout abandonment suggests friction during payment or shipping selection rather than issues with product discovery or cart engagement.
  
-##Recommendations
+## Recommendations
 
  - Reduce required checkout form fields
  - Display shipping costs earlier in the funnel
