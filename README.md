@@ -4,9 +4,6 @@
 Identify funnel stages with the highest user drop-off and determine where optimization would have the greatest impact on conversions.
 Data
 
-## E-commerce dataset:
-https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1sbigquery-public-data!2sga4_obfuscated_sample_ecommerce!3sevents_20210131
-
 ## Steps taken
 
  - Cleaned the data in dataset;
